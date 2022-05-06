@@ -3,5 +3,5 @@ Analyze a dataset then communicate the findings.
 Resources used in getting some help:-	google.com/
 					udacity.com/
 					stackoverflow.com/
-					https://pandas.pydata.org/docs/
-					https://www.programiz.com/
+					pandas.pydata.org/docs/
+					programiz.com/
